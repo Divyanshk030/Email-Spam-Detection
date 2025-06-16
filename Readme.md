@@ -112,13 +112,3 @@ $~$
 
 
 
-<p align="left">
-<a href="https://twitter.com/rrs00179" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="rrs00179" /></a>
-</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/rohan-sharma-9386rs/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rohan-sharma=9386" /></a>
-</p>
-
-<p align="center">
-  Readme created with the help of <a href="https://github.com/quine-sh/README-Template/blob/main/README.md" alt="https://github.com/quine-sh/README-Template/blob/main/README.md">Quine</a>
-</p>
