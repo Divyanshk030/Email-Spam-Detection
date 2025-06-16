@@ -110,14 +110,7 @@ $~$
 
 $~$
 
-### :people_holding_hands: Meet the Author
 
-<img  src="Assets/Author.jpg" alt="Author">
-
-
-### :email: Contact 
-- Email and social media links.
-- Head over to my github handle form [here](https://github.com/RS-labhub)
 
 <p align="left">
 <a href="https://twitter.com/rrs00179" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="rrs00179" /></a>
